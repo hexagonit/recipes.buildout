@@ -6,8 +6,8 @@ This is a development buildout for the hexagonit.recipe.* recipes for
 `zc.buildout <http://pypi.python.org/pypi/zc.buildout>`_. It currently
 contains the following recipes
 
-    * `hexagonit.recipe.download <http://pypi.python.org/pypi/hexagonit.recipe.download>`_
-    * `hexagonit.recipe.cmmi <http://pypi.python.org/pypi/hexagonit.recipe.cmmi>`_
+    * hexagonit.recipe.download [`PyPI <http://pypi.python.org/pypi/hexagonit.recipe.download>`_] [`Github <https://github.com/hexagonit/hexagonit.recipe.download>`_]
+    * hexagonit.recipe.cmmi [`PyPI <http://pypi.python.org/pypi/hexagonit.recipe.cmmi>`_] [`Github <https://github.com/hexagonit/hexagonit.recipe.cmmi>`_]
 
 Bootstrapping
 -------------
