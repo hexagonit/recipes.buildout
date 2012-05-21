@@ -21,7 +21,7 @@ Currently supported Python versions for the recipes include version 2.4 - 2.7.
 Building
 --------
 
-The buildout uses the `mr.developer <http://pypi.python.org/pypi/mr.developer`
+The buildout uses the `mr.developer <http://pypi.python.org/pypi/mr.developer>`_
 extension to clone the recipe repositories automatically. Simply running::
 
     $ ./bin/buildout
